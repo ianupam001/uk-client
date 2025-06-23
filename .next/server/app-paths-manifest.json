@@ -1,5 +1,8 @@
 {
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/(defaultLayout)/page": "app/(defaultLayout)/page.js"
+  "/(defaultLayout)/page": "app/(defaultLayout)/page.js",
+  "/(defaultLayout)/contact/page": "app/(defaultLayout)/contact/page.js",
+  "/(defaultLayout)/blog/page": "app/(defaultLayout)/blog/page.js",
+  "/(defaultLayout)/service/service-details/page": "app/(defaultLayout)/service/service-details/page.js",
+  "/(defaultLayout)/service/page": "app/(defaultLayout)/service/page.js"
 }

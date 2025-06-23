@@ -114,7 +114,7 @@ const Footer2 = () => {
                     </li>
                     <li>
                     <i className="bi bi-envelope-fill"></i>
-                      <a href="mailto:cripar@gmail.com">cripar@gmail.com</a>
+                      <a href="mailto:info@rrlegacymotors.co.uk">info@rrlegacymotors.co.uk</a>
                     </li>
                   </ul>
                 </div>

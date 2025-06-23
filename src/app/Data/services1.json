@@ -24,7 +24,7 @@
     "btnLink": "/service/service-details"
   },
   {
-    "img": "/assets/img/service_img_7.jpg",
+    "img": "/assets/img/service_img_7.webp",
     "icon": "/assets/img/icons/service_icon_6.svg",
     "title": "Brake Safe Inspection",
     "desc": "If your car struggles to start the lights dim when idling or the battery over three years old it may be time",   
@@ -32,7 +32,7 @@
     "btnLink": "/service/service-details"
   },
   {
-    "img": "/assets/img/service_img_5.jpg",
+    "img": "/assets/img/service_img_5.webp",
     "icon": "/assets/img/icons/service_icon_4.svg",
     "title": "Engine Tune-Up Plus",
     "desc": "Proper insulation and ventilation are key  also offer Ice Guard services to prevent ice buildup and damage If your check battery",   
@@ -40,7 +40,7 @@
     "btnLink": "/service/service-details"
   },
   {
-    "img": "/assets/img/service_img_6.jpg",
+    "img": "/assets/img/service_img_6.webp",
     "icon": "/assets/img/icons/service_icon_5.svg",
     "title": "Battery Boost Check",
     "desc": "If your check battery light comes on it's best to schedule a diagnostic service as soon as possible to identify address",   

@@ -49,11 +49,11 @@ export default function Header1({ variant }) {
                 </li>
                 <li>
                 <i className="bi bi-envelope-fill"></i>
-                  <a href="mailto:cripar@gmail.com">cripar@gmail.com</a>
+                  <a href="mailto:info@rrlegacymotors.co.uk">info@rrlegacymotors.co.uk</a>
                 </li>
                 <li>
                 <i className="bi bi-geo-alt-fill"></i>
-                  <span>Abu Dhabi - United Arab Emirates</span>
+                  <span>UK London</span>
                 </li>
               </ul>
             </div>
@@ -87,7 +87,7 @@ export default function Header1({ variant }) {
             <div className="cs_main_header_left">
             <div className="cs_logo_wrap">
               <Link className="cs_site_branding" href="/">
-                <Image src="/assets/img/logo.svg" alt="img" width={225} height={65}   />
+                <Image src="/assets/img/rr_legacy_motorslogoo4.png" alt="img" width={225} height={65}   />
               </Link>
               <div className="cs_logo_bg_shape cs_accent_color">
                   <svg width="509" height="141" viewBox="0 0 509 141" fill="none" xmlns="http://www.w3.org/2000/svg">

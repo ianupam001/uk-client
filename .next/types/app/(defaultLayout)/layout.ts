@@ -1,4 +1,4 @@
-// File: C:\Users\anupa\OneDrive\Desktop\Projects\cripar-nextjs\src\app\(defaultLayout)\layout.jsx
+// File: C:\Users\Hp\Desktop\project\uk-client\src\app\(defaultLayout)\layout.jsx
 import * as entry from '../../../../src/app/(defaultLayout)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

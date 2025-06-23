@@ -18,13 +18,13 @@ const archivo = Archivo({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'Cripar - Car Repair Services NextJS Template',
-    template: '%s | Cripar - Car Repair Services NextJS Template',
+    default: 'RR Legacy Moters',
+    template: '%s | RR Legacy Moters',
   },
-  description: 'Cripar - Car Repair Services NextJS Template',
+  description: 'RR Legacy Moters',
   openGraph: {
-    title: 'Cripar - Car Repair Services NextJS Template',
-    description: 'Cripar - Car Repair Services NextJS Template',
+    title: 'RR Legacy Moters',
+    description: 'RR Legacy Moters',
     image: '/openGraphImage.jpg',
   },
 };

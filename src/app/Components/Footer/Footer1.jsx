@@ -7,7 +7,7 @@ const Footer1 = () => {
         <div className="container">
           <div className="cs_footer_newsletter cs_style_1">
             <div className="cs_footer_newsletter_left cs_accent_bg cs_center">
-            <Image src="/assets/img/footer_logo.svg" alt="img" width={225} height={65}   />
+            <Image src="/assets/img/rr_legacy_motorslogoo4.png" alt="img" width={225} height={65}   />
             </div>
             <div className="cs_footer_newsletter_right">
               <h3 className="cs_fs_24 cs_semibold cs_white_color mb-0">Subscribe now to get latest updates</h3>
@@ -97,7 +97,7 @@ const Footer1 = () => {
                     </li>
                     <li>
                     <i className="bi bi-envelope-fill"></i>
-                      <a href="mailto:cripar@gmail.com">cripar@gmail.com</a>
+                      <a href="mailto:info@rrlegacymotors.co.uk">info@rrlegacymotors.co.uk</a>
                     </li>
                   </ul>
                 </div>
@@ -137,7 +137,7 @@ const Footer1 = () => {
           <div className="container">
             <div className="cs_footer_bottom_in">
               <div className="cs_footer_copyright">
-                Copyright © 2024 <a href="#">Cripar</a>. All Rights Reserved.
+                Copyright © 2025 <a href="#">RR Legacy Motors</a>. All Rights Reserved.
               </div>
               <div>
               <Image src="/assets/img/payment_card.svg" alt="img" width={191} height={20}   />

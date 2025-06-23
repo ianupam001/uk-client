@@ -24,7 +24,7 @@ const Contact = () => {
                     <i className="bi bi-envelope-fill"></i></div>
                       <div className="cs_iconbox_info">
                         <h3 className="cs_fs_18 cs_semibold cs_mb_2">Email Address :</h3>
-                        <a href="mailTo:needhelpcripar@gmail.com">needhelpcripar@gmail.com</a><br/>
+                        <a href="mailTo:needhelpinfo@rrlegacymotors.co.uk">needhelpinfo@rrlegacymotors.co.uk</a><br/>
                         <a href="mailTo:criparneedhelp@gmail.com">criparneedhelp@gmail.com</a>
                       </div>
                   </div>

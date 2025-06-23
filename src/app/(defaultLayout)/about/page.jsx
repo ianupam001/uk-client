@@ -14,9 +14,9 @@ const page = () => {
                 Title="About Us"
             ></BreadCumb>  
             <About1
-                img1="/assets/img/about_img_1.jpg"
-                img2="/assets/img/about_img_2.jpg"
-                img3="/assets/img/about_img_3.jpg"
+                img1="/assets/img/about_img_1.webp"
+                img2="/assets/img/about_img_2.webp"
+                img3="/assets/img/about_img_3.webp"
                 expNumber="58"
                 expYers="Years"
                 expTitle="Experience"

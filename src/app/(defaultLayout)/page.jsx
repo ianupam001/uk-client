@@ -16,9 +16,9 @@ const page = () => {
         <div>
             <HeroBanner1></HeroBanner1>
             <About1
-                img1="/assets/img/about_img_1.jpg"
-                img2="/assets/img/about_img_2.jpg"
-                img3="/assets/img/about_img_3.jpg"
+                img1="/assets/img/about_img_1.webp"
+                img2="/assets/img/about_img_2.webp"
+                img3="/assets/img/about_img_3.webp"
                 expNumber="58"
                 expYers="Years"
                 expTitle="Experience"
@@ -39,12 +39,12 @@ const page = () => {
             ></About1> 
             <Services1></Services1>   
             <Choose1
-                img1="/assets/img/feature_img_1.jpg"
+                img1="/assets/img/feature_img_1.webp"
                 content="Squeaking, grinding noises, or a spongy brake pedal are car common indicators that your brakes need attention Slow an  engine cranking."
                 btnName="Read more"
                 btnUrl="/about"
-                img2="/assets/img/feature_img_2.jpg"
-                img3="/assets/img/feature_img_3.jpg"
+                img2="/assets/img/feature_img_2.webp"
+                img3="/assets/img/feature_img_3.webp"
             ></Choose1> 
             <BeforeAfter 
                 title="Recent Completed Projects"
@@ -60,10 +60,10 @@ const page = () => {
                 Title="Contact Information"
                 subTitle="It is a long established fact that a reader be by the readable distracted  layout."
                 address="2972 Westheimer Rd. <br/>Santa Ana, Illinois 5486"
-                email="Cripar@gmail.com <br/>InfoCripar@gmal.com"
+                email="info@rrlegacymotors.co.uk <br/>InfoCripar@gmal.com"
                 number="(402) 4521 5458 44 <br/> (123) 2154 5464 55"
                 clientNumber="5,400"
-                img="/assets/img/contact_img_1.jpg"
+                img="/assets/img/contact_img_1.webp"
                 client="Happy Clients"
                 subtitle2="Contact us"
                 title2="Book and Appointment"
