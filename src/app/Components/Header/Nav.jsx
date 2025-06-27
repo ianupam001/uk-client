@@ -4,22 +4,9 @@ import DropDown from './DropDown';
 export default function Nav({ setMobileToggle }) {
   return (
     <ul className="cs_nav_list">
-      <li className="menu-item-has-children">
+      <li >
         <Link href="/">Home</Link>
-        <DropDown>
-          <ul>
-            <li>
-              <Link href="/" onClick={() => setMobileToggle(false)}>
-              Home Version 1
-              </Link>
-            </li>
-            <li>
-              <Link href="/home2" onClick={() => setMobileToggle(false)}>
-              Home Version 2
-              </Link>
-            </li>          
-          </ul>
-        </DropDown>
+       
       </li>
       <li className="menu-item-has-children">
         <Link href="#" onClick={() => setMobileToggle(false)}>

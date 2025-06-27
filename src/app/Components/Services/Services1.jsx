@@ -55,7 +55,7 @@ const Services1 = () => {
             <div className="cs_section_heading cs_style_1 cs_type_1 cs_mb_50">
               <div className="cs_section_heading_left">
                 <SectionTitle
-                    SubTitle="Best Services"
+                    SubTitle="Best Sales"
                     Title="Where Your Car Gets Pride the Best Care"
                 ></SectionTitle>
               </div>

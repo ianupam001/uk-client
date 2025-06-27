@@ -38,6 +38,8 @@ coverage/
 
 # TypeScript cache
 *.tsbuildinfo
+.next
+node_modules
 
 # Build output from static exports
 out/

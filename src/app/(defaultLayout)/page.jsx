@@ -10,11 +10,16 @@ import Testimonial1 from '../Components/Testimonial/Testimonial1';
 import Pricing1 from '../Components/Pricing/Pricing1';
 import Process from '../Components/Process/Process';
 import Blog3 from '../Components/Blog/Blog3';
+import ServicesHubForm from '../Components/Search/ServicesHubForm';
+import CardSlider from '../Components/CardSLider/CardSlider';
 
 const page = () => {
     return (
         <div>
             <HeroBanner1></HeroBanner1>
+            <CardSlider />  
+                <ServicesHubForm serviceName="Search"/>
+            <Services1></Services1> 
             <About1
                 img1="/assets/img/about_img_1.webp"
                 img2="/assets/img/about_img_2.webp"
@@ -37,7 +42,7 @@ const page = () => {
                 name="Ronald Richards"
                 designation="Founder CEO"
             ></About1> 
-            <Services1></Services1>   
+            
             <Choose1
                 img1="/assets/img/feature_img_1.webp"
                 content="Squeaking, grinding noises, or a spongy brake pedal are car common indicators that your brakes need attention Slow an  engine cranking."

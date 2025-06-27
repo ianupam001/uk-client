@@ -2799,7 +2799,7 @@ url(/_next/static/media/bootstrap-icons.70a9dee9.woff) format("woff");
   --heading-color: #01133c;
   --body-color: #666666;
   --ternary-color: #88a5ad;
-  --accent-color: #ef0f3a;
+  --accent-color: #25238d;
   --gray-color: #f5f7fa;
   --gray2-color: #e8ebee;
   --border-color: #ecf1f5;
@@ -5904,7 +5904,7 @@ textarea {
   color: var(--heading-color);
 }
 .cs_footer.cs_style_1 .cs_footer_copyright a {
-  color: var(--accent-color);
+  color: #8891e9;
 }
 .cs_footer.cs_style_1 .cs_footer_copyright a:hover {
   color: var(--accent-color);
@@ -9450,3 +9450,7 @@ label {
 .cs_accordian .cs_accordian_body {
   display: none;
 }
+
+
+
+

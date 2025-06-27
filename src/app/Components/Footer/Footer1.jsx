@@ -7,7 +7,7 @@ const Footer1 = () => {
         <div className="container">
           <div className="cs_footer_newsletter cs_style_1">
             <div className="cs_footer_newsletter_left cs_accent_bg cs_center">
-            <Image src="/assets/img/rr_legacy_motorslogoo4.png" alt="img" width={225} height={65}   />
+            <Image src="/assets/img/rrlegacyl.webp" alt="img" width={100} height={65}   />
             </div>
             <div className="cs_footer_newsletter_right">
               <h3 className="cs_fs_24 cs_semibold cs_white_color mb-0">Subscribe now to get latest updates</h3>
