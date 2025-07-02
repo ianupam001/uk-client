@@ -2,8 +2,8 @@
 import { useSearchParams } from 'next/navigation';
 
 export default function VrnSearchPage() {
-  const searchParams = useSearchParams();
-  const value = searchParams.get('value');
+  // const searchParams = useSearchParams();
+  // const value = searchParams.get('value');
 
   return (
     <div className="p-6">
