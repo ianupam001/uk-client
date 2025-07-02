@@ -6,8 +6,8 @@ const Footer1 = () => {
         <footer className="cs_footer cs_style_1 cs_bg_filed cs_heading_bg" data-src="assets/img/footer_bg.jpg">
         <div className="container">
           <div className="cs_footer_newsletter cs_style_1">
-            <div className="cs_footer_newsletter_left cs_accent_bg cs_center">
-            <Image src="/assets/img/rrlegacyl.webp" alt="img" width={100} height={65}   />
+            <div className="cs_footer_newsletter_left cs_center">
+            <Image src="/assets/img/rr legacy logo.webp" alt="img" width={100} height={65}   />
             </div>
             <div className="cs_footer_newsletter_right">
               <h3 className="cs_fs_24 cs_semibold cs_white_color mb-0">Subscribe now to get latest updates</h3>
@@ -39,12 +39,12 @@ const Footer1 = () => {
                     <i className="bi bi-linkedin"></i>
                     </a>
                     <a href="#" className="cs_social_btn cs_center">
-                    <i className="bi bi-twitter"></i>
+                    <i className="bi bi-twitter-x"></i>
                     </a>
                     <a href="#" className="cs_social_btn cs_center">
                     <i className="bi bi-youtube"></i>
                     </a>
-                    <a href="#" className="cs_social_btn cs_center">
+                    <a href="https://www.facebook.com/R.RLegacyMotors" className="cs_social_btn cs_center">
                     <i className="bi bi-facebook"></i>
                     </a>
                   </div>
@@ -71,10 +71,7 @@ const Footer1 = () => {
                     <li>
                       <Link href="/service/service-details">Initial driving lesson</Link>
                     </li>
-                    <li>
-                      <Link href="/service/service-details">Woman Education</Link>
-                    </li>
-                  </ul>
+                    </ul>
                 </div>
               </div>
               <div className="cs_footer_col">
@@ -88,12 +85,12 @@ const Footer1 = () => {
                   <ul className="cs_footer_contact_list cs_mp_0">
                     <li>
                     <i className="bi bi-geo-alt-fill"></i>
-                      Musaffah - M-6 - Abu Dhabi United Arab Emirates
+                      Unit 6, Tyersal Works, Tyersal Lane, Bradford, UK - BD40RB
                     </li>
                     <li>
                     <i className="bi bi-telephone-fill"></i>
-                      <a href="tel:+(163)-5565-06979">+(163)-5565-06979</a> <br/>
-                      <a href="tel:+(163)-5565-07989">+(163)-5565-07989</a>
+                      <a href="tel:+447469641922">(+44)7469-641922</a> <br/>
+                     
                     </li>
                     <li>
                     <i className="bi bi-envelope-fill"></i>
@@ -136,8 +133,8 @@ const Footer1 = () => {
         <div className="cs_footer_bottom cs_white_color">
           <div className="container">
             <div className="cs_footer_bottom_in">
-              <div className="cs_footer_copyright">
-                Copyright © 2025 <a href="#">RR Legacy Motors</a>. All Rights Reserved.
+              <div className="cs_footer_copyright" style={{ color: '#fff' }}>
+              Copyright © 2025 <a href="#">RR Legacy Motors</a>. All Rights Reserved.
               </div>
               <div>
               <Image src="/assets/img/payment_card.svg" alt="img" width={191} height={20}   />

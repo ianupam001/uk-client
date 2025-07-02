@@ -83,7 +83,7 @@
 }
 
 .see-all-btn {
-  background-color: #f97316;
+  background-color: #25238d;
   color: white;
   padding: 12px 24px;
   border: none;
@@ -95,5 +95,5 @@
 }
 
 .see-all-btn:hover {
-  background-color: #ea580c;
+  background-color: #16144b;
 }

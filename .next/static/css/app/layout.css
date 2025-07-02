@@ -5904,7 +5904,7 @@ textarea {
   color: var(--heading-color);
 }
 .cs_footer.cs_style_1 .cs_footer_copyright a {
-  color: #8891e9;
+  color: var(--accent-color);
 }
 .cs_footer.cs_style_1 .cs_footer_copyright a:hover {
   color: var(--accent-color);

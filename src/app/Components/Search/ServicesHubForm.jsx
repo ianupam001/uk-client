@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import './ServicesHubForm.css'; // or update the path to match your structure
 
-export default function ServicesHubForm({serviceName}) {
+export default function ServicesHubForm({ serviceName }) {
   const [service, setService] = useState('Popular Services');
   const [vrn, setVrn] = useState('');
   const [location, setLocation] = useState('');
@@ -29,7 +29,23 @@ export default function ServicesHubForm({serviceName}) {
         <div className="form-group">
           <label>Your vehicle registration number</label>
           <div className="input-group">
-            <span className="icon">🚗</span>
+            <span className="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                width="50"
+                height="50"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M3 13l1.5-4.5A2 2 0 016.4 7h11.2a2 2 0 011.9 1.5L21 13v5a1 1 0 01-1 1h-1a1 1 0 01-1-1v-1H6v1a1 1 0 01-1 1H4a1 1 0 01-1-1v-5zM7 17h10M7 17a2 2 0 114 0M17 17a2 2 0 11-4 0"
+                />
+              </svg>
+            </span>
             <input
               type="text"
               placeholder="Enter your VRN"
@@ -45,28 +61,27 @@ export default function ServicesHubForm({serviceName}) {
           <label>Postcode or location</label>
           <div className="input-group">
             <span className="icon">
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    fill="none"
-    viewBox="0 0 24 24"
-    strokeWidth={1.5}
-    stroke="currentColor"
-    width="50"
-    height="50"
-  >
-    <path
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z"
-    />
-    <path
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      d="M19.5 10.5c0 7.5-7.5 11.25-7.5 11.25S4.5 18 4.5 10.5a7.5 7.5 0 1115 0z"
-    />
-  </svg>
-</span>
-
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                width="50"
+                height="50"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z"
+                />
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M19.5 10.5c0 7.5-7.5 11.25-7.5 11.25S4.5 18 4.5 10.5a7.5 7.5 0 1115 0z"
+                />
+              </svg>
+            </span>
             <input
               type="text"
               placeholder="Enter your postcode / Town"

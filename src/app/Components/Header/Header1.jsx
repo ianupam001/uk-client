@@ -79,12 +79,12 @@ export default function Header1({ variant }) {
                   <i className="bi bi-linkedin"></i>
                   </a>
                   <a href="#" className="cs_social_btn cs_center">
-                  <i className="bi bi-twitter"></i>
+                  <i className="bi bi-twitter-x"></i>
                   </a>
                   <a href="#" className="cs_social_btn cs_center">
                   <i className="bi bi-youtube"></i>
                   </a>
-                  <a href="#" className="cs_social_btn cs_center">
+                  <a href="https://www.facebook.com/R.RLegacyMotors" className="cs_social_btn cs_center">
                   <i className="bi bi-facebook"></i>
                   </a>
                 </div>
@@ -101,7 +101,7 @@ export default function Header1({ variant }) {
             <div className="cs_main_header_left">
             <div className="cs_logo_wrap">
               <Link className="cs_site_branding" href="/">
-                <Image src="/assets/img/rrlegacyl.webp" alt="img" width={100} height={65}   />
+                <Image src="/assets/img/rr legacy logo.webp" alt="img" width={90} height={60}   />
               </Link>
               <div className="cs_logo_bg_shape cs_accent_color">
                   <svg width="509" height="141" viewBox="0 0 509 141" fill="none" xmlns="http://www.w3.org/2000/svg">
