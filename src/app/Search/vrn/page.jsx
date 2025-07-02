@@ -7,7 +7,7 @@ export default function VrnSearchPage() {
 
   return (
     <div className="p-6">
-      <h1 className="text-2xl font-bold">Results for VRN: {value}</h1>
+{/*       <h1 className="text-2xl font-bold">Results for VRN: {value}</h1> */}
       {/* Add logic to fetch and display matching VRN data */}
     </div>
   );
