@@ -17,10 +17,10 @@ const page = () => {
                 img1="/assets/img/about_img_1.webp"
                 img2="/assets/img/about_img_2.webp"
                 img3="/assets/img/about_img_3.webp"
-                expNumber="58"
+                expNumber="5"
                 expYers="Years"
                 expTitle="Experience"
-                number="(208) 555-0112"
+                number="(+44)7469-641922"
                 subTitle="Our About"
                 Title="Speedy Repairs Quality Results"
                 Content="We are professional and committed to service is a statement that highlights the companys professionalism and dedication to providing"
@@ -32,7 +32,7 @@ const page = () => {
                     "We Know Your Car Inside Out",
                 ]}
                 avatar="/assets/img/avatar_1.png"
-                name="Ronald Richards"
+                name="Gaurav Yadav"
                 designation="Founder CEO"
             ></About1>
             <Testimonial2></Testimonial2>

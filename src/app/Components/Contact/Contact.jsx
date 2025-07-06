@@ -15,8 +15,8 @@ const Contact = () => {
                     <i className="bi bi-telephone-inbound-fill"></i></div>
                       <div className="cs_iconbox_info">
                         <h3 className="cs_fs_18 cs_semibold cs_mb_2">Phone Number :</h3>
-                        <a href="tel:+111(564)56825">+111 (564) 568 25</a><br/>
-                        <a href="tel:+111(564)56826">+111 (564) 568 26</a>
+                        <a href="tel:+447469641922">(+44)7469-641922</a><br/>
+                      
                       </div>
                   </div>
                   <div className="cs_iconbox cs_style_5">
@@ -24,7 +24,7 @@ const Contact = () => {
                     <i className="bi bi-envelope-fill"></i></div>
                       <div className="cs_iconbox_info">
                         <h3 className="cs_fs_18 cs_semibold cs_mb_2">Email Address :</h3>
-                        <a href="mailTo:needhelpinfo@rrlegacymotors.co.uk">info@rrlegacymotors.co.uk</a><br/>
+                        <a href="mailTo:info@rrlegacymotors.co.uk">info@rrlegacymotors.co.uk</a><br/>
                         
                       </div>
                   </div>
@@ -33,7 +33,7 @@ const Contact = () => {
                     <i className="bi bi-geo-alt-fill"></i></div>
                       <div className="cs_iconbox_info">
                         <h3 className="cs_fs_18 cs_semibold cs_mb_2">Our Address :</h3>
-                        <p className="mb-0">2118 Thorn ridge Cir. <br/> Syracuse Connecticut</p>
+                        <p className="mb-0">Unit 6, Tyersal Works, Tyersal Lane, Bradford, UK - BD40RB</p>
                       </div>
                   </div>
                   <div className="cs_iconbox cs_style_5">
@@ -70,7 +70,7 @@ const Contact = () => {
         <div className="cs_height_120 cs_height_lg_80"></div>
 
         <div className="cs_navigation_map wow fadeInUp">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.2528001631!2d-74.14448723354508!3d40.69763123329699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1729318880502!5m2!1sen!2sbd"  loading="lazy"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17065.81708729872!2d-1.7416453994737338!3d53.78427748956156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487be1a6b230cb6d%3A0xeb081670a23c5761!2sTyersal%20Gate%2C%20Bradford%20BD4%200RD%2C%20UK!5e1!3m2!1sen!2sin!4v1751823710444!5m2!1sen!2sin"  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
       </section>

@@ -20,7 +20,7 @@ export default function BookingForm() {
 
   const handleSubmit = () => {
     const msg = `Booking Request:%0A%0ADate: ${form.date}%0ATime: ${form.time}%0AName: ${form.name}%0AEmail: ${form.email}%0APhone: ${form.phone}%0ACity: ${form.city}%0ARequirement: ${form.message}`;
-    const whatsappURL = `https://wa.me/919599864654?text=${encodeURIComponent(msg)}`;
+    const whatsappURL = `https://wa.me/+447469641922?text=${encodeURIComponent(msg)}`;
     window.location.href = whatsappURL;
   };
 
@@ -38,7 +38,9 @@ export default function BookingForm() {
               <div className="cs_section_heading_right mb-0 wow fadeInDown">Regular tire rotation ensures even wear, extending the life of your tires and improving overall vehicle performance. If your car struggles to start or the lights dim when idling, it may be time to service or replace the battery. Schedule your appointment now and keep your car running at its best.</div>
             </div>
             </div>
-    <div className="form-wrapper">
+    <div
+  className="form-wrapper" style={{maxWidth: "700px",background: "#a5a5e99e",}}>
+
       <form className="booking-form" onSubmit={(e) => { e.preventDefault(); handleSubmit(); }}>
         
         <div className="form-row">
