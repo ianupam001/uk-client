@@ -12,6 +12,7 @@ import Process from '../Components/Process/Process';
 import Blog3 from '../Components/Blog/Blog3';
 import ServicesHubForm from '../Components/Search/ServicesHubForm';
 import CardSlider from '../Components/CardSLider/CardSlider';
+import HomeForm from '../Components/HomeForm/homeform';
 
 const page = () => {
     return (
@@ -20,6 +21,7 @@ const page = () => {
             <CardSlider />  
                 <ServicesHubForm serviceName="Search"/>
             <Services1></Services1> 
+           <HomeForm></HomeForm>
             <About1
                 img1="/assets/img/about_img_1.webp"
                 img2="/assets/img/about_img_2.webp"
@@ -51,7 +53,7 @@ const page = () => {
                 img2="/assets/img/feature_img_2.webp"
                 img3="/assets/img/feature_img_3.webp"
             ></Choose1> 
-            <BeforeAfter 
+            {/* <BeforeAfter 
                 title="Recent Completed Projects"
                 subTitle="Before & after"
                 bgImg="/assets/img/before_after_bg_1.svg"
@@ -59,13 +61,13 @@ const page = () => {
                 afterTitle="After"
                 afterImg="/assets/img/before_img_1.jpg"
                 beforeTitle="Before"
-            ></BeforeAfter> 
+            ></BeforeAfter>  */}
             <Project1></Project1> 
             <Contact1
                 Title="Contact Information"
                 subTitle="It is a long established fact that a reader be by the readable distracted  layout."
                 address="2972 Westheimer Rd. <br/>Santa Ana, Illinois 5486"
-                email="info@rrlegacymotors.co.uk <br/>InfoCripar@gmal.com"
+                email="info@rrlegacymotors.co.uk"
                 number="(402) 4521 5458 44 <br/> (123) 2154 5464 55"
                 clientNumber="5,400"
                 img="/assets/img/contact_img_1.webp"

@@ -69,7 +69,13 @@ const Footer1 = () => {
                       <Link href="/service/service-details">Defensive Driving</Link>
                     </li>
                     <li>
-                      <Link href="/service/service-details">Initial driving lesson</Link>
+                      <Link href="/terms">Term & Conditions</Link>
+                    </li>
+                    <li>
+                      <Link href="/privacy-policy">Privacy Policy</Link>
+                    </li>
+                     <li>
+                      <Link href="/refundpolicy">Refund Policy</Link>
                     </li>
                     </ul>
                 </div>
